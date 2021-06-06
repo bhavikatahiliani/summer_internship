@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input{
+
+  display: block;
+  margin: 10px;
+}
+body{
+  background-color:#14E8FF;
+}
+
+.css-input{
+
+  border-width: 2px;
+  border-color: #cccccc;
+  border-style: solid;
+  padding: 11px;
+  font-size: 22px;
+  border-radius: 15px;
+  background-color: #ffc2ff;
+}
+
+form{
+
+  position: relative;
+  left:50px;
+
+}
+
+#demotext {
+  color: #FFFFFF;
+  background: #b8b8b8;
+  text-shadow: 4px 3px 0 #7A7A7A;
+  color: #FFFFFF;
+  background: #b8b8b8;
+  padding: 5px;
+  }
+
+.css-input:focus{
+
+  outline: none;
+
+}
+
+#demo {
+  padding: 3em;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+  background-color: #14E8FF;
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
