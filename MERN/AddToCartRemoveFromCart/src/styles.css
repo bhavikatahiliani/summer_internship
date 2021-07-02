@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.cart {
+  float: right;
+  margin-left: 300px;
+}
+.item {
+  border: 1px solid;
+  width: 300px;
+  margin: 4%;
+}
